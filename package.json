@@ -1,0 +1,8 @@
+{
+    “name”: “KekBot”,
+    “version”: “1.0.0”,
+    “description”: “Kekbot”,
+    “main”: “bot.js”,
+    “author”: “adM”,
+    “dependencies”: {}
+}
